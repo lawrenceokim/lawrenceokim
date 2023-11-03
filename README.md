@@ -1,25 +1,32 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lawrenceokim.lawrenceokim" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lawrence+Okim!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+a+Web+Developer!;" />
 </h1>
 
-<h3 align="center">A Passionate Frontend Web Developer from Nigeria ng</h3>
+<h3 align="center">A little about me</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on an **all-in-one web3 news app**
- 
- 🌱 I’m currently learning **React.js**
 
- 💬 Ask me about **React, Web design... or anything [here](https://github.com/lawrenceokim/lawrenceokim/issues)**
+🚀 I'm a *self-taught* **Frontend Web Developer** with about 2 years experience in this field.
 
- ⚡ Personally **Call of Duty: Mobile is the best mobile gaming app🥂**
- 
+🌱 I’m currently learning **React.js**
+  
+🔭 I’m also currently working on an **all-in-one web3 news app**
+
+💬 Ask me about **React, Web design... or anything [here](https://github.com/lawrenceokim/lawrenceokim/issues)**
+
+<!--📸 Aside software development i would pick **videography** -->
+
+ ⚡ I love gaming and **Call of Duty: Mobile** is my quick choice😅
  </div>
- 
+ <br/>
+
+<div align="center">
+<h1 align="center">🌐 Socials 🌐</h1>
+<br/>
 <div align="center"> 
   <a href="mailto:lawrence4okim@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -31,14 +38,14 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+</div>
+<br/>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h1 align="center">💻 Languages-Frameworks-Tools 💻</h1>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,photoshop,illustrator" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,photoshop,illustrator,NPM" />
 </div>
 
 <br/>
@@ -55,22 +62,19 @@ snake eating my contributon animation.
   <br/><br/><br/>
 </div> -->
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h1 align="center">📈 Stats 📉</h1>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=lawrenceokim&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lawrenceokim&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lawrenceokim&count_private=true&show_icons=true&rank_icon=github&theme=react&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceokim&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceokim&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
-<hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+e-mail!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Message+me+via+E-mail!;I'm+always+down+to+collab+😉">
 </h3>
 
 <br/>
