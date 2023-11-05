@@ -14,13 +14,13 @@
 
 🌱 I’m currently learning **React.js**
   
-🔭 I’m also currently working on an **all-in-one web3 news app**
+🔭 I’m also currently working on a **web3 news app**
 
-💬 Ask me about **React, Web design... or anything [here](https://github.com/lawrenceokim/lawrenceokim/issues)**
+❓ Ask me about **React, Web design... or anything [here](https://github.com/lawrenceokim/lawrenceokim/issues)**
 
 <!--📸 Aside software development i would pick **videography** -->
 
- ⚡ I love gaming and **Call of Duty: Mobile** is my quick choice😅
+ 💬 I love gaming and **Call of Duty: Mobile** is my quick choice😅
  </div>
  <br/>
 
