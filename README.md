@@ -10,13 +10,13 @@
 
 <div align="center">
 
-🚀 I'm a *self-taught* **Frontend Web Developer** with about 2 years experience in this field.
+🚀 I'm a *self-taught* **Frontend Web Developer** with about 2 years experience in this profession.
 
 🌱 I’m currently learning **React.js**
   
 🔭 I’m also currently working on a **web3 news app**
 
-❓ Ask me about **React, Web design... or anything [here](https://github.com/lawrenceokim/lawrenceokim/issues)**
+❓ Ask me about **React, Web development... or anything [here](https://github.com/lawrenceokim/lawrenceokim/issues)**
 
 <!--📸 Aside software development i would pick **videography** -->
 
@@ -45,7 +45,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=git,javascript,photoshop,illustrator,NPM" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,photoshop,illustrator,redux" />
 </div>
 
 <br/>
