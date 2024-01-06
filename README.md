@@ -12,9 +12,9 @@
 
 🚀 I'm a *self-taught* **Frontend Web Developer** with about 2 years experience in this profession.
 
-🌱 I’m currently learning **React.js**
+<!--🌱 I'm currently learning **react.js**-->
   
-🔭 I’m also currently working on a **web3 news app**
+🔭 I’m currently working on a **web3 news app**
 
 ❓ Ask me about **React, Web development... or anything [here](https://github.com/lawrenceokim/lawrenceokim/issues)**
 
