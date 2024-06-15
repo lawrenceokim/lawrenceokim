@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🚀 I'm a *self-taught* **Frontend Web Developer** with about 2 years experience in this profession.
+🚀 I'm a *self-taught* **Frontend Developer** with about 3 years experience in this profession.
 
 <!--🌱 I'm currently learning **react.js**-->
   
