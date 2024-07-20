@@ -44,8 +44,8 @@
 <h1 align="center">💻 Languages-Frameworks-Tools 💻</h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=git,javascript,photoshop,illustrator,redux" />
+    <img src="https://skillicons.dev/icons?i=react,next,bootstrap,html,css,vscode,github,figma,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=git,javascript,typescript,photoshop,illustrator,redux" />
 </div>
 
 <br/>
