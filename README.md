@@ -10,11 +10,11 @@
 
 <div align="center">
 
-🚀 I'm a *self-taught* **Frontend Developer** with about 4 years experience in this profession.
+🚀 I'm a *self-taught* **Frontend Developer** with about 5 years+ experience in this profession.
 
 <!--🌱 I'm currently learning **react.js**-->
   
-🔭 I’m currently working on an **AI tool with multiple functionality**
+🔭 I’m currently working on a **Legal platform with AI functionalities**
 
 ❓ Ask me about **React, Web development... or anything [here](https://github.com/lawrenceokim/lawrenceokim/issues)**
 
