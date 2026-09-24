@@ -63,7 +63,7 @@ AI-powered case management platform designed to modernize investigative workflow
 
 **Tech:** Next.js • React • TypeScript • Tailwind CSS • Supabase • AI APIs
 
-[View Project](https://github.com/lawrenceokim/npf-blueseal)
+[View Project](https://github.com/lawrenceokim/npf-blueseal) •
 
 ---
 
@@ -99,7 +99,7 @@ Built prediction-market experiences inspired by modern trading platforms, includ
 
 **Tech:** Next.js • React • TypeScript • APIs • Web3
 
-[View Repository](https://github.com/lawrenceokim/predera_demo)
+[View Repository](https://github.com/lawrenceokim/predera_demo) • [Live Demo](https://predera-demo.vercel.app/)
 
 ---
 
